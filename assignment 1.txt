@@ -1,0 +1,9 @@
+<html>
+    <head><h2>Lets upgrade</h2></head>
+    <body>
+        <script>
+            let age = prompt("what's your age?")
+            console.log(age)
+        </script>
+    </body>
+</html>
